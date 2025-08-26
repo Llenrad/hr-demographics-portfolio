@@ -74,7 +74,7 @@ The dataset underwent several preprocessing steps to ensure accuracy and usabili
 
 The full visual summary of this report is available as a downloadable PDF:
 
-**[HR_EmployeeReport.pdf](./HR_EmployeeReport.pdf)**
+**[[HR_EmployeeReport.pdf](./HR_EmployeeReport.pdf)](https://github.com/Llenrad/hr-demographics-portfolio/blob/main/HR%20EmployeeReport.pdf)**
 
 ---
 
